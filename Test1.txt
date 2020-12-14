@@ -1,2 +1,6 @@
 first sample test file
+<<<<<<< HEAD
 can i say something wrt to local repo
+=======
+i wanna add more changes.
+>>>>>>> refs/remotes/origin/main
