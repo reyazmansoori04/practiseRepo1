@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello , this is first sample test file
+=======
+This is the first sample test file 
+>>>>>>> 5228c538d9c834db6acef57c7e009cee4776bcc3
